@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
         - name: my-web-1
-          image: cankush625/webpage
+          image: # docker image
