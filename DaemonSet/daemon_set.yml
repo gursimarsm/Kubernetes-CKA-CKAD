@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: my-web-app
-          image: cankush625/webpage
+          image: # docker image
