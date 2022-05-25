@@ -19,7 +19,7 @@ spec:
             claimName: my-pvc-1
       containers:
         - name: my-web-2
-          image: cankush625/webpage
+          image: # docker image
           volumeMounts:
             - mountPath: /var/www/html
               name: myweb-pvc
