@@ -5,7 +5,8 @@ metadata:
 spec:
   containers:
     - name: my-web
-      image: cankush625/webpage
+      image: # docker image
+
       volumeMounts:
         - name: config-volume
           mountPath: /etc/httpd/conf.d/
