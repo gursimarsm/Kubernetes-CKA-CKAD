@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: "myweb1"
-      image: "cankush625/webpage"
+      image: # docker image
